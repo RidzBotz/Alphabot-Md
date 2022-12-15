@@ -14,7 +14,7 @@
     "base",
     "baileys-md"
   ],
-  "author": "ZeeoneOfc",
+  "author": "RidzzOfc",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.4.0",
